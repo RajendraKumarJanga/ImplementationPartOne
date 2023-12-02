@@ -1,8 +1,7 @@
 # ImplementationPartOne
 
 These steps will help you successfully set up and run the project in Eclipse.
-1. Start by downloading the project from the GitHub repository at 
-Add the url here
+1. Start by downloading the project from the GitHub repository. Make sure to extract the project file.
 2. Follow these steps to set up a JavaFX non-modular project using your preferred IDE. If you don't have the project, you can find a similar one for download.
 3. Download the appropriate JavaFX SDK for your operating system and extract it to a chosen location, like /Users/your-user/Downloads/javafx-sdk-21.0.1.
 4. In Eclipse, navigate to File -> Import -> General -> Import existing project -> Browse to the downloaded project -> Click Next.
